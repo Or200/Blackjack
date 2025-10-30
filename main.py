@@ -1,4 +1,4 @@
-
+from core.deck import build_standard_deck
 
 if __name__ == "__main__":
-    pass
+    build_standard_deck()
